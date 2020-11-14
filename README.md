@@ -26,6 +26,7 @@ Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a Full Stack s
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<code>
 <img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
+</code>](https://reactjs.org/)
 [<code>
 <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
 </code>](https://www.typescriptlang.org/)
@@ -56,7 +57,6 @@ Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a Full Stack s
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
