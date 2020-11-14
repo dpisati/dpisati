@@ -7,10 +7,10 @@ Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a full stack s
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as a Product Developer
+- 🔭 I’m currently working as a product developer
 - 🌱 I’m currently learning React and Vue
-- 👯 I’m looking to collaborate on Open Source projects
-- 🤔 I’m looking for help with 3D JavaScript Frameworks
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with 3D JavaScript frameworks (three.js / babylon)
 - ⚡ Fun fact: I'm not a bag juggler...
 
 ### Languages and Tools:
