@@ -13,8 +13,6 @@ Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a Full Stack s
 - 🤔 I’m looking for help with 3D JavaScript Frameworks
 - ⚡ Fun fact: I'm not a bag juggler...
 
-<br />
-
 ### Languages and Tools:
 
 [<code>
@@ -35,9 +33,6 @@ Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a Full Stack s
 [<code>
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
