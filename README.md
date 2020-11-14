@@ -4,8 +4,6 @@
 
 Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a Full Stack student 🚀 from Brazil, currently I live in New Zealand.<br /><br /> I figured out that I was a designer since I was a kid. From an early age, I loved to draw, investigate and learn how things work. I grew up guided by this passion and decided to make myself a product designer. A few years later developing products, I had my first contact with the programming world and discovered this new way to create and solve problems. Then I decided to dive deep and be a nonstop student of this exciting universe. Combining everything that I love: to learn, create and solve problems.
 
-<br />
-<br />
 
 **Talking about Personal Stuffs:**
 
