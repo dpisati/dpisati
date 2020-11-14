@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-[![GitHub dpisati](https://img.shields.io/github/followers/dpisati?label=follow&style=social)](https://github.com/dpisati)
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a  href="https://www.linkedin.com/in/daniel-pisati/">
+  <img align="left" alt="Daniel's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.facebook.com/daniel.pisati">
+  <img align="left" alt="Daniel's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/facebook.svg" />
+</a>
+
 
 
 ```javascript
@@ -37,11 +46,12 @@ const danielPisati = {
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpisati&layout=compact&show_icons=true&theme=dracula" alt="abhisheknaiidu" />
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+<br><br>
+
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working as a Product Developer
 - 🌱 I’m currently learning React and Vue
 - 👯 I’m looking to collaborate on Open Source projects
 - 🤔 I’m looking for help with 3D JavaScript Frameworks
 - ⚡ Fun fact: I'm not a bag juggler...
-
