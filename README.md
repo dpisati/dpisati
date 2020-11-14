@@ -75,7 +75,7 @@ const danielPisati = {
                     favorite: "Hazy IPA",
                     breweries: ["Behemonth", "Epic", "Garage Project", "8 Wired", "Kereru"]
                     },
-                coffee: ["Long Black", "Pour Over"]
+                coffee: ["Long Black", "Pour Over"],
                 sports: ["Futsal (indoor football)", "Cycling", "Running"],
                 games: ["Legend of Zelda Breath of The Wild", "Portal 2", "Rocket League"]
             },
