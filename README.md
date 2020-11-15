@@ -67,17 +67,18 @@ const danielPisati = {
   code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
   tools: ["React", "React Native", "Vue", "Node", "Laravel"],
   hobbies: {
-                technologies: "Study a new web tool", {
+                technology: {
+                    always: "Study a new web tool",  
                     current: ["webpack", "socket.io"],
                     future: ["babylon.js", "three.js"]
                     },
-                craftBeers: {
+                craftBeer: {
                     favorite: "Hazy IPA",
                     breweries: ["Behemonth", "Epic", "Garage Project", "8 Wired", "Kereru"]
                     },
                 coffee: ["Long Black", "Pour Over"],
-                sports: ["Futsal (indoor football)", "Cycling", "Running"],
-                games: ["Legend of Zelda Breath of The Wild", "Portal 2", "Rocket League"]
+                sport: ["Futsal (indoor football)", "Cycling", "Running"],
+                game: ["Legend of Zelda Breath of The Wild", "Portal 2", "Rocket League"]
             },
  challenge: "I am always on a diet..."
 }
