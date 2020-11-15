@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center"> <img align="center"  alt="GIF" src="https://github.com/dpisati/dpisati/blob/main/profile.gif?raw=true" width="546" height="400" />
+<p align="center"> <img align="center"  alt="GIF" src="https://github.com/dpisati/dpisati/blob/main/profile.gif?raw=true" width="546" />
 
 Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a full stack student 🚀 from Brazil. Currently I live in Christchurch/New Zealand.<br /><br /> I figured out that I was a designer since I was a kid. From an early age, I loved to draw, investigate and learn how things work. I grew up guided by this passion and decided to make myself a product designer. A few years later developing products, I had my first contact with the programming world and discovered this new way to create and solve problems. I then decided to dive deep and be a nonstop student of this exciting universe. Combining everything that I love: to learn, create and solve problems.
 
