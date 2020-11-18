@@ -68,7 +68,7 @@ const danielPisati = {
   tools: ["React", "React Native", "Vue", "Node", "Laravel"],
   hobbies: {
                 technology: {
-                    always: "Study a new web tool",  
+                    always: "studying",  
                     current: ["webpack", "socket.io"],
                     future: ["babylon.js", "three.js"]
                     },
