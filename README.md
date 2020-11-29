@@ -69,8 +69,8 @@ const danielPisati = {
   hobbies: {
                 technology: {
                     always: "studying",  
-                    current: ["webpack", "socket.io"],
-                    future: ["babylon.js", "three.js"]
+                    current: ["next.js"],
+                    future: ["webpack", "socket.io", "babylon.js", "three.js"]
                     },
                 craftBeer: {
                     favorite: "Hazy IPA",
