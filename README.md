@@ -70,7 +70,7 @@ const danielPisati = {
                 technology: {
                     always: "studying",  
                     current: "next.js",
-                    future: ["webpack", "socket.io", "babylon.js", "three.js"]
+                    future: ["webpack", "socket.io", "three.js"]
                     },
                 craftBeer: {
                     favorite: "Hazy IPA",
