@@ -65,7 +65,7 @@ const danielPisati = {
   hair: null,
   degree: "Product Designer - Level 7 - Bachelor degree",
   code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
-  tools: ["React", "React Native", "Vue", "Node", "Laravel"],
+  tools: ["React", "Next", "React Native", "Vue", "Node", "Laravel"],
   hobbies: {
                 technology: {
                     always: "studying",  
