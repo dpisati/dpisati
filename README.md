@@ -18,7 +18,7 @@ Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a front end de
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as a UI/UX Designer / Frontend Developer at [Tripod Digital](https://picalive-pro.netlify.app/)
+- 🔭 I’m currently working as a UI/UX Designer / Frontend Developer on the project [MiXR](https://picalive-pro.netlify.app/) at [Tripod Digital](https://tripod-digital.co.nz/)
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with backend in general
