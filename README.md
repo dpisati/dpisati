@@ -5,6 +5,17 @@
 Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a front end developer 🚀 from Brazil. Currently I live in Christchurch/New Zealand.<br /><br /> I figured out that I was a designer since I was a kid. From an early age, I loved to draw, investigate and learn how things work. I grew up guided by this passion and decided to make myself a product designer. A few years later developing products, I had my first contact with the programming world and discovered this new way to create and solve problems. I then decided to dive deep and be a nonstop student of this exciting universe. Combining everything that I love: to learn, create and solve problems.
 
 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/dpisati)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonai-pinheiro/)](https://www.linkedin.com/in/daniel-pisati/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964623773&text=Olá!)](https://api.whatsapp.com/send?phone=640220572846&text=Hi!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adonaijpinheiro@gmail.com)](mailto:dpisati@gmail.com)
+
+---
+
+
+
+
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working as a product developer
