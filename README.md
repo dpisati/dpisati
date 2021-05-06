@@ -18,10 +18,10 @@ Hi, I'm [Daniel Pisati](https://dpisati.github.io/dp_portfolio/), a front end de
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as a product developer
-- 🌱 I’m currently learning React and Vue
+- 🔭 I’m currently working as a UI/UX Designer / Frontend Developer at [Tripod Digital](https://picalive-pro.netlify.app/)
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with 3D JavaScript frameworks (three.js / babylon)
+- 🤔 I’m looking for help with backend in general
 - ⚡ Fun fact: I'm not a bag juggler...
 
 ### Languages and Tools:
