@@ -102,12 +102,12 @@ const danielPisati = {
                     future: ["webpack", "socket.io", "three.js"]
                     },
                 craftBeer: {
-                    favorite: "Hazy IPA",
+                    currentFavoriteStyle: "Double IPA",
                     breweries: ["Behemonth", "Epic", "Garage Project", "8 Wired", "Kereru"]
                     },
                 coffee: ["Long Black", "Pour Over"],
                 sport: ["Futsal (indoor football)", "Cycling", "Running"],
-                game: ["Legend of Zelda Breath of The Wild", "Portal 2", "Rocket League"]
+                game: ["Legend of Zelda Breath of The Wild", "Portal 2", "Warzone", "Rocket League"]
             },
  challenge: "I am always on a diet..."
 }
