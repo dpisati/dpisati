@@ -7,8 +7,7 @@ Hi, I'm [Daniel Pisati](https://dpportfolio.vercel.app/), an UX / UI Designer an
   
   <br />
 
-#### ♥ Have look at my [Portfolio](https://dpportfolio.vercel.app/)
-#### and also my [UX / UI Portfolio](https://www.figma.com/file/03cbtNs9Jd6rwNIyCHPNm4/UI-Daniel-Pisati)
+#### ♥ Have look at my [Portfolio](https://dpportfolio.vercel.app/) and also my [UX / UI Portfolio](https://www.figma.com/file/03cbtNs9Jd6rwNIyCHPNm4/UI-Daniel-Pisati)
   
   <br /><br />
   
