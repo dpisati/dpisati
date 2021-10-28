@@ -26,7 +26,7 @@ Hi, I'm [Daniel Pisati](https://dpportfolio.vercel.app/), an UX / UI Designer an
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as a UI/UX Designer / Frontend Developer on the project [MiXR](https://picalive-pro.netlify.app/) at [Tripod Digital](https://tripod-digital.co.nz/)
+- 🔭 I’m currently working as a Software Developer at [Phocas Software](https://www.phocassoftware.com/)
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with backend in general
