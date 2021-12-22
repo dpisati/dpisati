@@ -94,7 +94,7 @@ const danielPisati = {
   degree: "Product Designer - Level 7 - Bachelor degree",
   code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
   tools: ["React", "Next", "React Native", "Vue", "Node", "Laravel"],
-  hobbies: {
+  hobbies: [
                 technology: {
                     always: "studying",  
                     current: "next.js",
@@ -107,7 +107,7 @@ const danielPisati = {
                 coffee: ["Long Black", "Pour Over"],
                 sport: ["Futsal (indoor football)", "Cycling", "Running"],
                 game: ["Legend of Zelda Breath of The Wild", "Portal 2", "Warzone", "Rocket League"]
-            },
+            ],
  challenge: "I am always on a diet..."
 }
 ```
