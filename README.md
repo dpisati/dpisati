@@ -113,9 +113,10 @@ const danielPisati = {
 ```
 
 
-📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dpisati&show_icons=true&theme=dracula&hide=stars,prs,issues,contribs" alt="abhisheknaiidu" />
+📈 My GitHub Stats 
+  <div align='center'>
+  <a href="https://github.com/dpisati">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dpisati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpisati&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-<br>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpisati&layout=compact&show_icons=true&theme=dracula" alt="abhisheknaiidu" />
