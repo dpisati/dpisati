@@ -4,15 +4,10 @@
 
 Hi, I'm [Daniel Pisati](https://dpportfolio.vercel.app/), an UX / UI Designer and frontend developer 🚀 Currently I live in Christchurch/New Zealand.<br /><br /> I figured out that I was a designer since I was a kid. From an early age, I loved to draw, investigate and learn how things work. I grew up guided by this passion and decided to make myself a product designer. A few years later developing products, I had my first contact with the programming world and discovered this new way to create and solve problems. I then decided to dive deep and be a nonstop student of this exciting universe. Combining everything that I love: to learn, create and solve problems.
   
+
+#### ♥ Have look at my [developer portfolio](https://dpportfolio.vercel.app/) and also my [UI work](https://www.figma.com/file/03cbtNs9Jd6rwNIyCHPNm4/UI-Daniel-Pisati)
   
   <br />
-
-#### ♥ Have look at my [Portfolio](https://dpportfolio.vercel.app/) and also my [UX / UI Portfolio](https://www.figma.com/file/03cbtNs9Jd6rwNIyCHPNm4/UI-Daniel-Pisati)
-  
-  <br /><br />
-  
-
-
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/dpisati)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonai-pinheiro/)](https://www.linkedin.com/in/daniel-pisati/)
@@ -32,57 +27,36 @@ Hi, I'm [Daniel Pisati](https://dpportfolio.vercel.app/), an UX / UI Designer an
 - 🤔 I’m looking for help with backend in general
 - ⚡ Fun fact: I'm not a bag juggler...
 
-### Languages and Tools:
-  
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-  [<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-  [<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png">
-</code>](https://reactjs.org/)
-  [<code>
-<img alt="vue" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png">
-</code>](https://vuejs.org/)
-  [<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-    [<code>
-<img alt="firebase" width="26px" src="https://img.icons8.com/color/240/000000/firebase.png">
-</code>](https://firebase.google.com/)
-  [<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png">
-</code>](https://code.visualstudio.com/)
-  [<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-  [<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-  [<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-  [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-  [<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-  [<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
+### Developing Tools:
+<img align="left" alt="html5" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-original.svg" alt="html5" />
+<img align="left" alt="css3" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original.svg" />
+<img align="left" alt="mui" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<img align="left" alt="sass" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="tailwindcss" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="javascript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" />
+<img align="left" alt="typescript" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/typescript/typescript-original.svg" />
+<img align="left" alt="react" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="nextjs" width="42px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+<img align="left" alt="jest" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="cypress" width="42px" src="https://www.svgrepo.com/show/353630/cypress.svg" />
+<img align="left" alt="storybook" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
 
+
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
+
+<br />
+
+<br />
+  
+### Designing Tools:
+<img align="left" alt="figma" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="photoshop" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="blender" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  
+
+<br />
+<br />
 <br />
 
 ```javascript
@@ -91,9 +65,9 @@ const danielPisati = {
   height: "1,68cm" | "5'5",
   weight: undefined,
   hair: null,
-  degree: "Product Designer - Level 7 - Bachelor degree",
-  code: ["Javascript", "Typescript", "HTML", "CSS", "PHP"],
-  tools: ["React", "Next", "React Native", "Vue", "Node", "Laravel"],
+  degree: "Design - Bachelor degree - Level 7",
+  code: ["Javascript", "Typescript", "HTML", "CSS"],
+  tools: ["React", "Next", "React Native", "Node"],
   hobbies: {
                 technology: {
                     always: "studying",  
