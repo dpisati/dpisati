@@ -41,12 +41,7 @@ Hi, I'm [Daniel Pisati](https://dpportfolio.vercel.app/), an UX / UI Designer an
 <img align="left" alt="cypress" width="42px" src="https://www.svgrepo.com/show/353630/cypress.svg" />
 <img align="left" alt="storybook" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
 
-
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/git/git-original.svg" />
-<img align="left" alt="Visual Studio Code" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
-
 <br />
-
 <br />
   
 ### Designing Tools:
