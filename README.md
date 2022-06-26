@@ -38,6 +38,7 @@ Hi, I'm [Daniel Pisati](https://dpportfolio.vercel.app/), an UX / UI Designer an
 <img align="left" alt="react" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="nextjs" width="42px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 <img align="left" alt="jest" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="react-testing-library" width="42px" src="https://testing-library.com/img/octopus-128x128.png" />
 <img align="left" alt="cypress" width="42px" src="https://www.svgrepo.com/show/353630/cypress.svg" />
 <img align="left" alt="storybook" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
 
