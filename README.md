@@ -2,7 +2,7 @@
 
 <p align="center"> <img align="center"  alt="GIF" src="https://github.com/dpisati/dpisati/blob/main/profile.gif?raw=true" width="546" />
 
-Hi, I'm [Daniel Pisati](https://dpportfolio.vercel.app/), an UX / UI Designer and frontend developer 🚀 Currently I live in Christchurch/New Zealand.<br /><br /> I figured out that I was a designer since I was a kid. From an early age, I loved to draw, investigate and learn how things work. I grew up guided by this passion and decided to make myself a product designer. A few years later developing products, I had my first contact with the programming world and discovered this new way to create and solve problems. I then decided to dive deep and be a nonstop student of this exciting universe. Combining everything that I love: to learn, create and solve problems.
+Hi, I'm [Daniel Pisati](https://pisati.dev), an UX / UI Designer and frontend developer 🚀 Currently I live in Christchurch/New Zealand.<br /><br /> I figured out that I was a designer since I was a kid. From an early age, I loved to draw, investigate and learn how things work. I grew up guided by this passion and decided to make myself a product designer. A few years later developing products, I had my first contact with the programming world and discovered this new way to create and solve problems. I then decided to dive deep and be a nonstop student of this exciting universe. Combining everything that I love: to learn, create and solve problems.
   
 
 #### ♥ Have look at my [developer portfolio](https://pisati.dev/) and also my [UI work](https://www.figma.com/file/03cbtNs9Jd6rwNIyCHPNm4/UI-Daniel-Pisati)
