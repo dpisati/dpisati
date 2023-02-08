@@ -1,12 +1,7 @@
 <svg fill="none" viewBox="0 0 40 40" width="40" height="40" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
       <style>
-           .container {
-          display: flex;
-        align-items: center;
-        justify-content: center;
-        position: relative;
-        }
+
         .wave {
             animation-name: wave-animation;
             animation-duration: 2.5s;
@@ -17,6 +12,7 @@
             position: absolute;
             top: -16px;
             left: -8px;
+        scale: 1.4;
         }
 
         @keyframes wave-animation {
@@ -31,7 +27,7 @@
         }
       </style>
     
-    <div class="container" xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml">
 
     
 
