@@ -21,7 +21,7 @@ Hi, I'm [Daniel Pisati](https://pisati.dev), an UX / UI Designer and frontend de
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working as a Software Developer at [Phocas Software](https://www.phocassoftware.com/)
+- 🔭 I’m currently working as a Software Developer
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with backend in general
