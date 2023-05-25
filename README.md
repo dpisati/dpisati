@@ -10,7 +10,7 @@ However, my journey took an unexpected turn when I ventured into the realm of pr
 
 Today, I am thrilled to merge my love for learning, creative expression, and problem-solving in a harmonious blend. By combining these passions, I continuously strive to push boundaries, create remarkable experiences, and find innovative solutions.
 
-With a solid foundation in design and a relentless drive to stay at the forefront of industry trends, I bring a unique perspective and a versatile skill set to any design project. I am excited to contribute my expertise, collaborate with exceptional teams, and make a meaningful impact in the world of design and problem-solving.
+I am humbly passionate about sharing my knowledge and constantly learning from the diverse perspectives of others. Recognizing that true growth comes from collective efforts, I embrace the role of a team player and eagerly contribute to our shared objectives.
   
 <br /><br /> 
   
