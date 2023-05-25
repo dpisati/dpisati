@@ -1,13 +1,20 @@
 # Hello there! <img align="left" src="header.svg"> 
 
-<p align="center"> <img align="center"  alt="GIF" src="https://github.com/dpisati/dpisati/blob/main/profile.gif?raw=true" width="546" />
+<p align="center"> <img align="center"  alt="GIF" src="https://github.com/dpisati/dpisati/blob/main/profile.gif?raw=true" width="546" /><br /><br /> 
 
-Hi, I'm [Daniel Pisati](https://pisati.dev), an UX / UI Designer and frontend developer 🚀 Currently I live in Christchurch/New Zealand.<br /><br /> I figured out that I was a designer since I was a kid. From an early age, I loved to draw, investigate and learn how things work. I grew up guided by this passion and decided to make myself a product designer. A few years later developing products, I had my first contact with the programming world and discovered this new way to create and solve problems. I then decided to dive deep and be a nonstop student of this exciting universe. Combining everything that I love: to learn, create and solve problems.
+Hi, I'm [Daniel Pisati](https://pisati.dev), UX / UI Designer and frontend developer 🚀 based in New Zealand and a design system enthusiast.<br />
+  
+As an aspiring designer since childhood, my passion for the creative process has been an inherent part of my identity. From a young age, I immersed myself in the world of drawing, investigating, and understanding how things function. This unwavering enthusiasm guided me toward a career in product design.
+
+However, my journey took an unexpected turn when I ventured into the realm of programming. This newfound exploration revealed an exhilarating avenue for problem-solving and innovation. Fueled by an insatiable thirst for knowledge, I dedicated myself to becoming a lifelong student of this dynamic universe.
+
+Today, I am thrilled to merge my love for learning, creative expression, and problem-solving in a harmonious blend. By combining these passions, I continuously strive to push boundaries, create remarkable experiences, and find innovative solutions.
+
+With a solid foundation in design and a relentless drive to stay at the forefront of industry trends, I bring a unique perspective and a versatile skill set to any design project. I am excited to contribute my expertise, collaborate with exceptional teams, and make a meaningful impact in the world of design and problem-solving.
+  
+<br /><br /> 
   
 
-#### ♥ Have look at my [developer portfolio](https://pisati.dev/) and also my [UI work](https://www.figma.com/file/03cbtNs9Jd6rwNIyCHPNm4/UI-Daniel-Pisati)
-  
-  <br />
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/dpisati)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adonai-pinheiro/)](https://www.linkedin.com/in/daniel-pisati/)
