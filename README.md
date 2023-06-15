@@ -49,9 +49,8 @@ I am humbly passionate about sharing my knowledge and constantly learning from t
 <img align="left" alt="cypress" width="42px" src="https://www.svgrepo.com/show/353630/cypress.svg" />
 <img align="left" alt="storybook" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
 
-<br />
-<br />
-  
+<br /><br /><br /><br />
+
 ### Designing Tools:
 <img align="left" alt="figma" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="photoshop" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
