@@ -63,27 +63,30 @@ I am humbly passionate about sharing my knowledge and constantly learning from t
 
 ```javascript
 const danielPisati = {
-  pronouns: "he" | "him",
-  height: "1,68cm" | "5'5",
+  pronouns: ["he", "him"],
+  height: ["1,68cm", "5'5"],
   weight: undefined,
   hair: null,
   degree: "Design - Bachelor degree - Level 7",
-  code: ["Javascript", "Typescript", "HTML", "CSS"],
-  tools: ["React", "Next", "React Native", "Node"],
-  hobbies: {
-                technology: {
+  stack: ["React", "Next", "Typescript", "Javascript", "HTML", "CSS", "Material UI", "SASS", "Tailwind", "Node", "React Native"],
+  hobbies: [
+                {
+                  technology: {
                     always: "studying",  
                     current: "next.js",
                     future: ["webpack", "socket.io", "three.js"]
                     },
-                craftBeer: {
+                },
+                {
+                  craftBeer: {
                     currentFavoriteStyle: "Double IPA",
                     breweries: ["Behemonth", "Epic", "Garage Project", "8 Wired", "Kereru"]
                     },
-                coffee: ["Long Black", "Pour Over"],
-                sport: ["Futsal", "Volleyball", "Cycling", "Running"],
-                game: ["Legend of Zelda Breath of The Wild", "Portal 2", "CoD: Warzone", "Rocket League"]
-            },
+                },
+                { coffee: ["Long Black", "Pour Over"], },
+                { sport: ["Futsal", "Volleyball", "Cycling", "Running"], },
+                { game: ["Legend of Zelda Breath of The Wild", "Portal 2", "CoD: Warzone", "Rocket League"] }
+            ],
  challenge: "I am always on a diet..."
 }
 ```
